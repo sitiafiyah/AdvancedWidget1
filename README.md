@@ -10,7 +10,7 @@
   * ![SS - 03](https://github.com/sitiafiyah/AdvancedWidget1/blob/master/SS%20-%2003.png)
 
 * **ScreenShoot 4**
-  * !SS -04[](https://github.com/sitiafiyah/AdvancedWidget1/blob/master/SS%20-%2004.png)
+  * ![SS -04](https://github.com/sitiafiyah/AdvancedWidget1/blob/master/SS%20-%2004.png)
 
 * Identitas : 
     * Nama : Siti Afiyah 
